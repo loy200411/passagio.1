@@ -8,10 +8,10 @@
 <body style="margin:0; display:flex; flex-direction: column; justify-content:center; align-items:center; height:100vh; background:#f0f0f0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
 
     <h1 style="margin-bottom: 20px; font-weight: 300; letter-spacing: 2px; text-transform: uppercase; color: #333;">
-        PASSAGIO 1
+        PASSAGGIO 1
     </h1>
 
-    <a rel="ar" href="passagio_1.usdz" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+    <a rel="ar" href="passaggio_1.usdz" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
         <img src="IMG_6053.png" alt="SEE IN AR" style="width:80%; max-width: 400px; border-radius:10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
         
         <div style="margin-top: 20px; text-align: center;">
